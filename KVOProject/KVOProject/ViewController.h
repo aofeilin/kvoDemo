@@ -1,0 +1,15 @@
+//
+//  ViewController.h
+//  KVOProject
+//
+//  Created by aofeilin on 2018/11/21.
+//  Copyright © 2018年 com.aofeilin.com. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface ViewController : UIViewController
+
+@property (weak, nonatomic) IBOutlet UITextField *textField;
+@end
+
